@@ -3,7 +3,7 @@ Order=0,1,2,3
 Focused=2
 [Editor_0]
 CursorCol=2
-CursorRow=8
+CursorRow=13
 TopLine=1
 LeftChar=1
 [Editor_1]
@@ -13,8 +13,8 @@ TopLine=56
 LeftChar=1
 [Editor_2]
 CursorCol=2
-CursorRow=203
-TopLine=188
+CursorRow=189
+TopLine=180
 LeftChar=1
 [Editor_3]
 CursorCol=20
